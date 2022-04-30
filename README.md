@@ -14,4 +14,4 @@
 - 重度社恐，不要来线下贴贴dame
 - 盒武器警告
 
-~~<a href="https://github.com/fawdlstty">Edit by Fawdlstty.</a>~~
+~~Edit by <a href="https://github.com/fawdlstty">Fawdlstty</a>.~~
