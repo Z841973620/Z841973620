@@ -13,5 +13,6 @@
 - 在线云贴贴
 - 重度社恐，不要来线下贴贴dame
 - 盒武器警告
-~~- OIer (已退役，现在为学校竞赛队的助教~~
+- ~~OIer (已退役，现在为学校竞赛队的助教~~
+
 ~~Edit by <a href="https://github.com/fawdlstty">Fawdlstty</a>.~~
