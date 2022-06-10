@@ -16,4 +16,4 @@
 - 盒武器警告
 - ~~OIer (已退役，现在为学校竞赛队的助教~~
 
-~~Edit by <a href="https://github.com/fawdlstty">Fawdlstty</a>.~~
+~~Edit by my friend <a href="https://github.com/fawdlstty">Fawdlstty</a>.~~
